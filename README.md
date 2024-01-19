@@ -1,7 +1,7 @@
 # 项目名称
 
 个人ToDo列表项目
-![图片](.img/main.jpg)
+![图片](./img/main.jpg)
 
 
 ## 技术栈
